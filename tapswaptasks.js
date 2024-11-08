@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         TapswapTasks
-// @namespace    https://github.com/glad-tidings/
+// @namespace    https://github.com/gfazhqi/
 // @version      3.0
 // @description  Tapswap Auto Task Claim
 // @author       Glad Tidings
 // @match        https://app.tapswap.club/*
-// @icon         https://raw.githubusercontent.com/glad-tidings/TapswapTasks/refs/heads/main/icon.jpeg
+// @icon         https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/icon.jpeg
 // @grant        None
 // @downloadURL  https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/list.json
 // @updateURL    https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/list.json
