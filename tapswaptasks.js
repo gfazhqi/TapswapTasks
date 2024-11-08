@@ -7,8 +7,8 @@
 // @match        https://app.tapswap.club/*
 // @icon         https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/icon.jpeg
 // @grant        None
-// @downloadURL  https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/list.json
-// @updateURL    https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/list.json
+// @downloadURL  https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/tapswaptasks.js
+// @updateURL    https://raw.githubusercontent.com/gfazhqi/TapswapTasks/refs/heads/main/tapswaptasks.js
 // @homepage     https://github.com/gfazhqi/TapswapTasks/
 // @require      https://code.jquery.com/jquery-3.7.1.min.js
 // ==/UserScript==
