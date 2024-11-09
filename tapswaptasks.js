@@ -44,7 +44,7 @@
         var tapfamily = fullurl.split("%2522%252C%2522username")[0];
         tapfamily = tapfamily.split("last_name%2522%253A%2522")[1];
         var buttonn = document.createElement("Button");
-        buttonn.style.cssText = "BACKGROUND-COLOR: red;top: 0px; right: 0px; position: absolute; z-index: 99999; padding: 3px 2px;";
+        buttonn.style.cssText = "BACKGROUND-COLOR: red;lower: 0px; right: 0px; position: absolute; z-index: 99999; padding: 3px 2px;";
         buttonn.id = "hamedap";
         buttonn.innerHTML = tapname + " ( " + username + " )";
         document.body.appendChild(buttonn);
